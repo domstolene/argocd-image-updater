@@ -1,4 +1,4 @@
-name: Package and Publish image, Create PR for k8s-applications
+name: Package and Publish image
 on:
   # Triggers when new release is published.
   release:
